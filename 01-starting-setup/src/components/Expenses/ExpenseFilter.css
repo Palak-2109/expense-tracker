@@ -1,0 +1,18 @@
+.expense-filter{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    margin-top: 1rem;
+}
+.expense-filter-dropdown{
+    width: 17%;
+    text-align: center;
+    height: 2.25rem;
+    border-radius: 6px;
+    border: 0px;
+}
+.filter_label{
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+}
